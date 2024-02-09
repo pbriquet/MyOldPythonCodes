@@ -1,0 +1,46 @@
+go data
+sw tcfe9
+d-sys Fe C Si
+rej p *
+rest p
+ LIQUID FCC_A1 BCC_A2 CEM
+
+
+get
+go p-3
+save-work c:\Users\U553182\Documents\Python\Thermocalc\FeCSi\EqVar\17\buffer
+s-c p=1e5 n=1 t=2000
+
+ADVANCED_OPTIONS GLOBAL_MINIMIZATION Y,,,,,,,,
+
+s-c w(C)=0.3622448979591837E-02
+s-c w(Si)=0.35E-02
+
+
+c-e
+c-e
+c-e
+c-e
+c-e
+
+l-eq,,,,,
+
+s-a-v 1 t 400 2000 5
+add 1 2 -1 -2
+
+step,,,,
+
+pos
+
+s-d-a x t-c
+s-d-a y bpw(*) *
+
+s-a-ty y log
+s-s-s x n 400 1600
+s-s-s y n 1e-4 1 
+
+s-l f
+
+make-exp-data file bpw.exp y
+exit
+set_interactive

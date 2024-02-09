@@ -1,0 +1,55 @@
+go data
+sw tcfe9
+d-sys Fe C Si Mn Cr Mo S Ni V Nb W Cu N Al
+rej p *
+rest p
+ LIQUID FCC_A1 BCC_A2 CEM M7C3 M23C6 HCP_A3 M6C
+
+
+get
+go p-3
+s-c p=1e5 n=1 t=2000
+
+ADVANCED_OPTIONS GLOBAL_MINIMIZATION Y,,,,,,,,
+
+s-c w(C)=0.5E-02
+s-c w(Si)=0.7E-02
+s-c w(Mn)=0.4E-02
+s-c w(Cr)=3.0E-02
+s-c w(Mo)=1.0E-02
+s-c w(S)=0.03E-02
+s-c w(Ni)=0.4E-02
+s-c w(V)=1.7E-02
+s-c w(Nb)=0.1E-02
+s-c w(W)=3.4E-02
+s-c w(Cu)=0.3E-02
+s-c w(N)=0.001E-02
+s-c w(Al)=0.003E-02
+
+
+c-e
+c-e
+c-e
+c-e
+c-e
+
+l-eq,,,,,
+
+s-a-v 1 t 400 2000 5
+add 1 2 -1 -2
+
+step,,,,
+
+pos
+
+s-d-a x t-c
+s-d-a y bpw(*) *
+
+s-a-ty y log
+s-s-s x n 400 1600
+s-s-s y n 1e-4 1 
+
+s-l f
+
+make-exp-data file bpw.exp
+

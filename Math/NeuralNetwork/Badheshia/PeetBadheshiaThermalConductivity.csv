@@ -1,0 +1,587 @@
+Label;Fe;C;Mn;Ni;Mo;V;Cr;Cu;Al;Nb;Si;W;B;Ti;Co;P;S;N;Zr;Cond;T;k;References
+Pure_01;100;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;20;73.3;Smithhalls hb 14-4 Refs 7,20, 50. 7 - US Bur. Stds, Circular C447, Mecanical Properties of Metals and Alloys, Washington 1952,  20- BSIRA , Physical Constants of Some commercial steels at Elevated Temperatures, London, 1953. 50 - ASM Reference Book p143, 
+Pure_02;100;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;27;80.2;Smithhalls hb 14-4 Refs 7,20, 50. 7 - US Bur. Stds, Circular C447, Mecanical Properties of Metals and Alloys, Washington 1952,  20- BSIRA , Physical Constants of Some commercial steels at Elevated Temperatures, London, 1953. 50 - ASM Reference Book p143, 
+Pure_03;100;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;100;68.2;Smithhalls hb 14-4 Refs 7,20, 50. 7 - US Bur. Stds, Circular C447, Mecanical Properties of Metals and Alloys, Washington 1952,  20- BSIRA , Physical Constants of Some commercial steels at Elevated Temperatures, London, 1953. 50 - ASM Reference Book p143, 
+Pure_04;100;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;127;69.5;Smithhalls hb 14-4 Refs 7,20, 50. 7 - US Bur. Stds, Circular C447, Mecanical Properties of Metals and Alloys, Washington 1952,  20- BSIRA , Physical Constants of Some commercial steels at Elevated Temperatures, London, 1953. 50 - ASM Reference Book p143, 
+Pure_05;100;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;200;61.5;Smithhalls hb 14-4 Refs 7,20, 50. 7 - US Bur. Stds, Circular C447, Mecanical Properties of Metals and Alloys, Washington 1952,  20- BSIRA , Physical Constants of Some commercial steels at Elevated Temperatures, London, 1953. 50 - ASM Reference Book p143, 
+Pure_06;100;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;227;61.3;Smithhalls hb 14-4 Refs 7,20, 50. 7 - US Bur. Stds, Circular C447, Mecanical Properties of Metals and Alloys, Washington 1952,  20- BSIRA , Physical Constants of Some commercial steels at Elevated Temperatures, London, 1953. 50 - ASM Reference Book p143, 
+Pure_07;100;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;327;54.7;Smithhalls hb 14-4 Refs 7,20, 50. 7 - US Bur. Stds, Circular C447, Mecanical Properties of Metals and Alloys, Washington 1952,  20- BSIRA , Physical Constants of Some commercial steels at Elevated Temperatures, London, 1953. 50 - ASM Reference Book p143, 
+Pure_08;100;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;400;48.6;Smithhalls hb 14-4 Refs 7,20, 50. 7 - US Bur. Stds, Circular C447, Mecanical Properties of Metals and Alloys, Washington 1952,  20- BSIRA , Physical Constants of Some commercial steels at Elevated Temperatures, London, 1953. 50 - ASM Reference Book p143, 
+Pure_09;100;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;527;43.3;Smithhalls hb 14-4 Refs 7,20, 50. 7 - US Bur. Stds, Circular C447, Mecanical Properties of Metals and Alloys, Washington 1952,  20- BSIRA , Physical Constants of Some commercial steels at Elevated Temperatures, London, 1953. 50 - ASM Reference Book p143, 
+Pure_10;100;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;600;38.9;Smithhalls hb 14-4 Refs 7,20, 50. 7 - US Bur. Stds, Circular C447, Mecanical Properties of Metals and Alloys, Washington 1952,  20- BSIRA , Physical Constants of Some commercial steels at Elevated Temperatures, London, 1953. 50 - ASM Reference Book p143, 
+Pure_11;100;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;727;32.3;Smithhalls hb 14-4 Refs 7,20, 50. 7 - US Bur. Stds, Circular C447, Mecanical Properties of Metals and Alloys, Washington 1952,  20- BSIRA , Physical Constants of Some commercial steels at Elevated Temperatures, London, 1953. 50 - ASM Reference Book p143, 
+Pure_12;100;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;800;29.7;Smithhalls hb 14-4 Refs 7,20, 50. 7 - US Bur. Stds, Circular C447, Mecanical Properties of Metals and Alloys, Washington 1952,  20- BSIRA , Physical Constants of Some commercial steels at Elevated Temperatures, London, 1953. 50 - ASM Reference Book p143, 
+Steel1_1;Balance;0.06;0.4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;23;65.3;Smithhalls hb 14-30 
+Steel1_2;Balance;0.06;0.4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;100;60.3;Smithhalls hb 14-30 
+Steel1_3;Balance;0.06;0.4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;200;54.9;Smithhalls hb 14-30 
+Steel1_4;Balance;0.06;0.4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;400;45.2;Smithhalls hb 14-30 
+Steel1_5;Balance;0.06;0.4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;600;36.4;Smithhalls hb 14-30 
+Steel1_6;Balance;0.06;0.4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;800;28.5;Smithhalls hb 14-30 
+Steel1_7;Balance;0.06;0.4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;1000;27.6;Smithhalls hb 14-30 
+Steel2_1;Balance;0.08;0.31;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;23;59.5;Smithhalls hb 14-30 
+Steel2_2;Balance;0.08;0.31;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;100;57.8;Smithhalls hb 14-30 
+Steel2_3;Balance;0.08;0.31;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;200;53.2;Smithhalls hb 14-30 
+Steel2_4;Balance;0.08;0.31;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;400;45.6;Smithhalls hb 14-30 
+Steel2_5;Balance;0.08;0.31;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;600;36.8;Smithhalls hb 14-30 
+Steel2_6;Balance;0.08;0.31;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;800;28.5;Smithhalls hb 14-30 
+Steel2_7;Balance;0.08;0.31;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;1000;27.6;Smithhalls hb 14-30 
+Steel3_1;Balance;0.23;0.6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;23;51.9;Smithhalls hb 14-30 
+Steel3_2;Balance;0.23;0.6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;100;51.1;Smithhalls hb 14-30 
+Steel3_3;Balance;0.23;0.6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;200;49;Smithhalls hb 14-30 
+Steel3_4;Balance;0.23;0.6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;400;42.7;Smithhalls hb 14-30 
+Steel3_5;Balance;0.23;0.6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;600;35.6;Smithhalls hb 14-30 
+Steel3_6;Balance;0.23;0.6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;800;26;Smithhalls hb 14-30 
+Steel3_7;Balance;0.23;0.6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;1000;27.2;Smithhalls hb 14-30 
+Steel4_1;Balance;0.42;0.64;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;23;51.9;Smithhalls hb 14-30 
+Steel4_2;Balance;0.42;0.64;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;100;50.7;Smithhalls hb 14-30 
+Steel4_3;Balance;0.42;0.64;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;200;48.2;Smithhalls hb 14-30 
+Steel4_4;Balance;0.42;0.64;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;400;41.9;Smithhalls hb 14-30 
+Steel4_5;Balance;0.42;0.64;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;600;33.9;Smithhalls hb 14-30 
+Steel4_6;Balance;0.42;0.64;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;800;24.7;Smithhalls hb 14-30 
+Steel4_7;Balance;0.42;0.64;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;1000;26.8;Smithhalls hb 14-30 
+Steel5_1;Balance;0.8;0.32;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;23;47.8;Smithhalls hb 14-30 
+Steel5_2;Balance;0.8;0.32;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;100;48.2;Smithhalls hb 14-30 
+Steel5_3;Balance;0.8;0.32;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;200;45.2;Smithhalls hb 14-30 
+Steel5_4;Balance;0.8;0.32;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;400;38.1;Smithhalls hb 14-30 
+Steel5_5;Balance;0.8;0.32;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;600;32.7;Smithhalls hb 14-30 
+Steel5_6;Balance;0.8;0.32;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;800;24.3;Smithhalls hb 14-30 
+Steel5_7;Balance;0.8;0.32;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;1000;26.8;Smithhalls hb 14-30 
+Steel6_1;Balance;1.22;0.35;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;23;45.2;Smithhalls hb 14-30 
+Steel6_2;Balance;1.22;0.35;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;100;44.8;Smithhalls hb 14-30 
+Steel6_3;Balance;1.22;0.35;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;200;43.5;Smithhalls hb 14-30 
+Steel6_4;Balance;1.22;0.35;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;400;38.5;Smithhalls hb 14-30 
+Steel6_5;Balance;1.22;0.35;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;600;33.5;Smithhalls hb 14-30 
+Steel6_6;Balance;1.22;0.35;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;800;23.9;Smithhalls hb 14-30 
+Steel6_7;Balance;1.22;0.35;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;1000;26;Smithhalls hb 14-30 
+Steel7_1;Balance;0.23;1.51;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;23;46.1;Smithhalls hb 14-30 
+Steel7_2;Balance;0.23;1.51;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;100;46.1;Smithhalls hb 14-30 
+Steel7_3;Balance;0.23;1.51;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;200;44.8;Smithhalls hb 14-30 
+Steel7_4;Balance;0.23;1.51;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;400;39.8;Smithhalls hb 14-30 
+Steel7_5;Balance;0.23;1.51;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;600;34.3;Smithhalls hb 14-30 
+Steel7_6;Balance;0.23;1.51;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;800;26.4;Smithhalls hb 14-30 
+Steel7_7;Balance;0.23;1.51;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;1000;27.2;Smithhalls hb 14-30 
+Steel8_1;Balance;0.13;0.61;0.12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;23;-;Smithhalls hb 14-30 
+Steel8_2;Balance;0.13;0.61;0.12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;100;-;Smithhalls hb 14-30 
+Steel8_3;Balance;0.13;0.61;0.12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;200;-;Smithhalls hb 14-30 
+Steel8_4;Balance;0.13;0.61;0.12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;400;-;Smithhalls hb 14-30 
+Steel8_5;Balance;0.13;0.61;0.12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;600;-;Smithhalls hb 14-30 
+Steel8_6;Balance;0.13;0.61;0.12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;800;-;Smithhalls hb 14-30 
+Steel8_7;Balance;0.13;0.61;0.12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;1000;-;Smithhalls hb 14-30 
+Steel9_1;Balance;0.4;0.67;0.8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Hardened 850COQ;23;-;Smithhalls hb 14-30 
+Steel9_2;Balance;0.4;0.67;0.8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;100;49.4;Smithhalls hb 14-30 
+Steel9_3;Balance;0.4;0.67;0.8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;200;46.9;Smithhalls hb 14-30 
+Steel9_4;Balance;0.4;0.67;0.8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;400;40.6;Smithhalls hb 14-30 
+Steel9_5;Balance;0.4;0.67;0.8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;600;34.8;Smithhalls hb 14-30 
+Steel10_1;Balance;0.37;1.56;0;0.26;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;23;-;Smithhalls hb 14-30 
+Steel10_2;Balance;0.37;1.56;0;0.26;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;100;48.2;Smithhalls hb 14-30 
+Steel10_3;Balance;0.37;1.56;0;0.26;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;200;45.6;Smithhalls hb 14-30 
+Steel10_4;Balance;0.37;1.56;0;0.26;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;400;39.4;Smithhalls hb 14-30 
+Steel10_5;Balance;0.37;1.56;0;0.26;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;600;33.9;Smithhalls hb 14-30 
+Steel11_1;Balance;0.37;1.48;0;0.43;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;23;-;Smithhalls hb 14-30 
+Steel11_2;Balance;0.37;1.48;0;0.43;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;100;45.6;Smithhalls hb 14-30 
+Steel11_3;Balance;0.37;1.48;0;0.43;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;200;44;Smithhalls hb 14-30 
+Steel11_4;Balance;0.37;1.48;0;0.43;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;400;39.4;Smithhalls hb 14-30 
+Steel11_5;Balance;0.37;1.48;0;0.43;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;600;33.9;Smithhalls hb 14-30 
+Steel12_1;Balance;0.32;0.69;0;0;0;1.09;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;23;48.6;Smithhalls hb 14-30 
+Steel12_2;Balance;0.32;0.69;0;0;0;1.09;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;100;46.5;Smithhalls hb 14-30 
+Steel12_3;Balance;0.32;0.69;0;0;0;1.09;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;200;44.4;Smithhalls hb 14-30 
+Steel12_4;Balance;0.32;0.69;0;0;0;1.09;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;400;38.5;Smithhalls hb 14-30 
+Steel12_5;Balance;0.32;0.69;0;0;0;1.09;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;600;31.8;Smithhalls hb 14-30 
+Steel12_6;Balance;0.32;0.69;0;0;0;1.09;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;800;26;Smithhalls hb 14-30 
+Steel12_7;Balance;0.32;0.69;0;0;0;1.09;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;1000;28.1;Smithhalls hb 14-30 
+Steel13_1;Balance;0.39;0.79;0;0;0;1.03;0;0;0;0;0;0;0;0;0;0;0;0;-;23;-;Smithhalls hb 14-30 
+Steel13_2;Balance;0.39;0.79;0;0;0;1.03;0;0;0;0;0;0;0;0;0;0;0;0;-;100;44.8;Smithhalls hb 14-30 
+Steel13_3;Balance;0.39;0.79;0;0;0;1.03;0;0;0;0;0;0;0;0;0;0;0;0;-;200;43.5;Smithhalls hb 14-30 
+Steel13_4;Balance;0.39;0.79;0;0;0;1.03;0;0;0;0;0;0;0;0;0;0;0;0;-;400;37.7;Smithhalls hb 14-30 
+Steel13_5;Balance;0.39;0.79;0;0;0;1.03;0;0;0;0;0;0;0;0;0;0;0;0;-;600;31.4;Smithhalls hb 14-30 
+Steel14_1;Balance;0.28/0.33;0.4/0.6;0;0.15/0.25;0;0.8/1.1;0;0;0;0.2/0.35;0;0;0;0;0;0;0;0;-;0;42.7;Smithhalls hb 14-30 
+Steel14_2;Balance;0.28/0.33;0.4/0.6;0;0.15/0.25;0;0.8/1.1;0;0;0;0.2/0.35;0;0;0;0;0;0;0;0;-;23;-;Smithhalls hb 14-30 
+Steel14_3;Balance;0.28/0.33;0.4/0.6;0;0.15/0.25;0;0.8/1.1;0;0;0;0.2/0.35;0;0;0;0;0;0;0;0;-;100;42.7;Smithhalls hb 14-30 
+Steel14_4;Balance;0.28/0.33;0.4/0.6;0;0.15/0.25;0;0.8/1.1;0;0;0;0.2/0.35;0;0;0;0;0;0;0;0;-;200;-;Smithhalls hb 14-30 
+Steel14_5;Balance;0.28/0.33;0.4/0.6;0;0.15/0.25;0;0.8/1.1;0;0;0;0.2/0.35;0;0;0;0;0;0;0;0;-;300;40.6;Smithhalls hb 14-30 
+Steel14_6;Balance;0.28/0.33;0.4/0.6;0;0.15/0.25;0;0.8/1.1;0;0;0;0.2/0.35;0;0;0;0;0;0;0;0;-;400;-;Smithhalls hb 14-30 
+Steel14_7;Balance;0.28/0.33;0.4/0.6;0;0.15/0.25;0;0.8/1.1;0;0;0;0.2/0.35;0;0;0;0;0;0;0;0;-;500;37.3;Smithhalls hb 14-30 
+Steel14_8;Balance;0.28/0.33;0.4/0.6;0;0.15/0.25;0;0.8/1.1;0;0;0;0.2/0.35;0;0;0;0;0;0;0;0;-;600;-;Smithhalls hb 14-30 
+Steel14_9;Balance;0.28/0.33;0.4/0.6;0;0.15/0.25;0;0.8/1.1;0;0;0;0.2/0.35;0;0;0;0;0;0;0;0;-;700;31;Smithhalls hb 14-30 
+Steel14_10;Balance;0.28/0.33;0.4/0.6;0;0.15/0.25;0;0.8/1.1;0;0;0;0.2/0.35;0;0;0;0;0;0;0;0;-;800;-;Smithhalls hb 14-30 
+Steel14_11;Balance;0.28/0.33;0.4/0.6;0;0.15/0.25;0;0.8/1.1;0;0;0;0.2/0.35;0;0;0;0;0;0;0;0;-;1000;28.1;Smithhalls hb 14-30 
+Steel14_12;Balance;0.28/0.33;0.4/0.6;0;0.15/0.25;0;0.8/1.1;0;0;0;0.2/0.35;0;0;0;0;0;0;0;0;-;1200;30.1;Smithhalls hb 14-30 
+Steel15_1;Balance;0.41;0.67;0;0.23;0;1.01;0;0;0;0;0;0;0;0;0;0;0;0;-;23;-;Smithhalls hb 14-30 
+Steel15_2;Balance;0.41;0.67;0;0.23;0;1.01;0;0;0;0;0;0;0;0;0;0;0;0;-;100;42.7;Smithhalls hb 14-30 
+Steel15_3;Balance;0.41;0.67;0;0.23;0;1.01;0;0;0;0;0;0;0;0;0;0;0;0;-;200;42.3;Smithhalls hb 14-30 
+Steel15_4;Balance;0.41;0.67;0;0.23;0;1.01;0;0;0;0;0;0;0;0;0;0;0;0;-;400;37.7;Smithhalls hb 14-30 
+Steel15_5;Balance;0.41;0.67;0;0.23;0;1.01;0;0;0;0;0;0;0;0;0;0;0;0;-;600;33.1;Smithhalls hb 14-30 
+Steel16_1;Balance;0.4;0.4;0;0.7;0;1.1;0;0;0;0;0;0;0;0;0;0;0;0;-;23;-;Smithhalls hb 14-30 
+Steel16_2;Balance;0.4;0.4;0;0.7;0;1.1;0;0;0;0;0;0;0;0;0;0;0;0;-;100;-;Smithhalls hb 14-30 
+Steel16_3;Balance;0.4;0.4;0;0.7;0;1.1;0;0;0;0;0;0;0;0;0;0;0;0;-;200;-;Smithhalls hb 14-30 
+Steel16_4;Balance;0.4;0.4;0;0.7;0;1.1;0;0;0;0;0;0;0;0;0;0;0;0;-;400;-;Smithhalls hb 14-30 
+Steel16_5;Balance;0.4;0.4;0;0.7;0;1.1;0;0;0;0;0;0;0;0;0;0;0;0;-;600;-;Smithhalls hb 14-30 
+Steel16_6;Balance;0.4;0.4;0;0.7;0;1.1;0;0;0;0;0;0;0;0;0;0;0;0;-;800;-;Smithhalls hb 14-30 
+Steel17_1;Balance;0.4;0.6;0;0.8;0.2;3;0;0;0;0;0;0;0;0;0;0;0;0;-;23;-;Smithhalls hb 14-30 
+Steel17_2;Balance;0.4;0.6;0;0.8;0.2;3;0;0;0;0;0;0;0;0;0;0;0;0;-;100;-;Smithhalls hb 14-30 
+Steel17_3;Balance;0.4;0.6;0;0.8;0.2;3;0;0;0;0;0;0;0;0;0;0;0;0;-;200;-;Smithhalls hb 14-30 
+Steel17_4;Balance;0.4;0.6;0;0.8;0.2;3;0;0;0;0;0;0;0;0;0;0;0;0;;400;-;Smithhalls hb 14-30 
+Steel17_5;Balance;0.4;0.6;0;0.8;0.2;3;0;0;0;0;0;0;0;0;0;0;0;0;-;600;-;Smithhalls hb 14-30 
+Steel18_1;Balance;0.35;0.59;0.2;0.2;0;0.88;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;23;42.7;Smithhalls hb 14-30 
+Steel18_2;Balance;0.35;0.59;0.2;0.2;0;0.88;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;100;42.7;Smithhalls hb 14-30 
+Steel18_3;Balance;0.35;0.59;0.2;0.2;0;0.88;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;200;41.9;Smithhalls hb 14-30 
+Steel18_4;Balance;0.35;0.59;0.2;0.2;0;0.88;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;400;38.9;Smithhalls hb 14-30 
+Steel18_5;Balance;0.35;0.59;0.2;0.2;0;0.88;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;600;33.9;Smithhalls hb 14-30 
+Steel18_6;Balance;0.35;0.59;0.2;0.2;0;0.88;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;800;26.4;Smithhalls hb 14-30 
+Steel18_7;Balance;0.35;0.59;0.2;0.2;0;0.88;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;1000;28.1;Smithhalls hb 14-30 
+Steel19_1;Balance;0.23;0.45;0;0.51;0.77;2.87;0;0;0;0.45;0.59;0;0;0;0;0;0;0;-;23;35.5;Smithhalls hb 14-30 
+Steel19_2;Balance;0.23;0.45;0;0.51;0.77;2.87;0;0;0;0.45;0.59;0;0;0;0;0;0;0;-;100;33.6;Smithhalls hb 14-30 
+Steel19_3;Balance;0.23;0.45;0;0.51;0.77;2.87;0;0;0;0.45;0.59;0;0;0;0;0;0;0;-;200;33.1;Smithhalls hb 14-30 
+Steel19_4;Balance;0.23;0.45;0;0.51;0.77;2.87;0;0;0;0.45;0.59;0;0;0;0;0;0;0;-;400;30.6;Smithhalls hb 14-30 
+Steel19_5;Balance;0.23;0.45;0;0.51;0.77;2.87;0;0;0;0.45;0.59;0;0;0;0;0;0;0;-;600;29.3;Smithhalls hb 14-30 
+Steel19_6;Balance;0.23;0.45;0;0.51;0.77;2.87;0;0;0;0.45;0.59;0;0;0;0;0;0;0;-;800;28.9;Smithhalls hb 14-30 
+Steel20_1;Balance;0.32;0.55;3.47;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;23;36.4;Smithhalls hb 14-30 
+Steel20_2;Balance;0.32;0.55;3.47;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;100;37.7;Smithhalls hb 14-30 
+Steel20_3;Balance;0.32;0.55;3.47;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;200;38.9;Smithhalls hb 14-30 
+Steel20_4;Balance;0.32;0.55;3.47;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;400;36.8;Smithhalls hb 14-30 
+Steel20_5;Balance;0.32;0.55;3.47;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;600;32.7;Smithhalls hb 14-30 
+Steel20_6;Balance;0.32;0.55;3.47;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;800;25.1;Smithhalls hb 14-30 
+Steel20_7;Balance;0.32;0.55;3.47;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;1000;27.6;Smithhalls hb 14-30 
+Steel21_1;Balance;0.33;0.5;3.4;0;0;0.8;0;0;0;0;0;0;0;0;0;0;0;0;-;23;34.3;Smithhalls hb 14-30 
+Steel21_2;Balance;0.33;0.5;3.4;0;0;0.8;0;0;0;0;0;0;0;0;0;0;0;0;-;100;36;Smithhalls hb 14-30 
+Steel21_3;Balance;0.33;0.5;3.4;0;0;0.8;0;0;0;0;0;0;0;0;0;0;0;0;-;200;36.8;Smithhalls hb 14-30 
+Steel21_4;Balance;0.33;0.5;3.4;0;0;0.8;0;0;0;0;0;0;0;0;0;0;0;0;-;400;36.4;Smithhalls hb 14-30 
+Steel21_5;Balance;0.33;0.5;3.4;0;0;0.8;0;0;0;0;0;0;0;0;0;0;0;0;-;600;31.8;Smithhalls hb 14-30 
+Steel21_6;Balance;0.33;0.5;3.4;0;0;0.8;0;0;0;0;0;0;0;0;0;0;0;0;-;800;26;Smithhalls hb 14-30 
+Steel21_7;Balance;0.33;0.5;3.4;0;0;0.8;0;0;0;0;0;0;0;0;0;0;0;0;-;1000;27.6;Smithhalls hb 14-30 
+steel22_1;Balance;0.41;0;1.43;0.26;0;1.07;0;0;0;0;0;0;0;0;0;0;0;0;-;23;-;Smithhalls hb 14-30 
+steel22_2;Balance;0.41;0;1.43;0.26;0;1.07;0;0;0;0;0;0;0;0;0;0;0;0;-;100;-;Smithhalls hb 14-30 
+steel22_3;Balance;0.41;0;1.43;0.26;0;1.07;0;0;0;0;0;0;0;0;0;0;0;0;-;200;-;Smithhalls hb 14-30 
+steel22_4;Balance;0.41;0;1.43;0.26;0;1.07;0;0;0;0;0;0;0;0;0;0;0;0;-;400;-;Smithhalls hb 14-30 
+steel22_5;Balance;0.41;0;1.43;0.26;0;1.07;0;0;0;0;0;0;0;0;0;0;0;0;-;600;-;Smithhalls hb 14-30 
+steel23_1;Balance;0.32;0;2.6;0.51;0;0.67;0;0;0;0;0;0;0;0;0;0;0;0;-;23;-;Smithhalls hb 14-30 
+steel23_2;Balance;0.32;0;2.6;0.51;0;0.67;0;0;0;0;0;0;0;0;0;0;0;0;-;100;-;Smithhalls hb 14-30 
+steel23_3;Balance;0.32;0;2.6;0.51;0;0.67;0;0;0;0;0;0;0;0;0;0;0;0;-;200;-;Smithhalls hb 14-30 
+steel23_4;Balance;0.32;0;2.6;0.51;0;0.67;0;0;0;0;0;0;0;0;0;0;0;0;-;400;-;Smithhalls hb 14-30 
+steel23_5;Balance;0.32;0;2.6;0.51;0;0.67;0;0;0;0;0;0;0;0;0;0;0;0;-;600;-;Smithhalls hb 14-30 
+Steel24_1;Balance;0.34;0.54;3.53;0.39;0;0.76;0;0;0;0;0;0;0;0;0;0;0;0;-;23;33.1;Smithhalls hb 14-30 
+Steel24_2;Balance;0.34;0.54;3.53;0.39;0;0.76;0;0;0;0;0;0;0;0;0;0;0;0;-;100;33.9;Smithhalls hb 14-30 
+Steel24_3;Balance;0.34;0.54;3.53;0.39;0;0.76;0;0;0;0;0;0;0;0;0;0;0;0;-;200;35.2;Smithhalls hb 14-30 
+Steel24_4;Balance;0.34;0.54;3.53;0.39;0;0.76;0;0;0;0;0;0;0;0;0;0;0;0;-;400;35.6;Smithhalls hb 14-30 
+Steel24_5;Balance;0.34;0.54;3.53;0.39;0;0.76;0;0;0;0;0;0;0;0;0;0;0;0;-;600;30.6;Smithhalls hb 14-30 
+Steel24_6;Balance;0.34;0.54;3.53;0.39;0;0.76;0;0;0;0;0;0;0;0;0;0;0;0;-;800;26.8;Smithhalls hb 14-30 
+Steel24_7;Balance;0.34;0.54;3.53;0.39;0;0.76;0;0;0;0;0;0;0;0;0;0;0;0;-;1000;28.5;Smithhalls hb 14-30 
+Steel25_1;Balance;0.29;0;4.23;0;0;1.26;0;0;0;0;0;0;0;0;0;0;0;0;-;23;-;Smithhalls hb 14-30 
+Steel25_2;Balance;0.29;0;4.23;0;0;1.26;0;0;0;0;0;0;0;0;0;0;0;0;-;100;27.6;Smithhalls hb 14-30 
+Steel25_3;Balance;0.29;0;4.23;0;0;1.26;0;0;0;0;0;0;0;0;0;0;0;0;-;200;29.7;Smithhalls hb 14-30 
+steel26_1;Balance;0.48;0.9;0;0;0;0;0.64;0;0;1.98;0;0;0;0;0;0;0;0;Annealed;23;25.1;Smithhalls hb 14-30 
+steel26_2;Balance;0.48;0.9;0;0;0;0;0.64;0;0;1.98;0;0;0;0;0;0;0;0;Annealed;100;28.5;Smithhalls hb 14-30 
+steel26_3;Balance;0.48;0.9;0;0;0;0;0.64;0;0;1.98;0;0;0;0;0;0;0;0;Annealed;200;30.1;Smithhalls hb 14-30 
+steel26_4;Balance;0.48;0.9;0;0;0;0;0.64;0;0;1.98;0;0;0;0;0;0;0;0;Annealed;400;-;Smithhalls hb 14-30 
+steel26_5;Balance;0.48;0.9;0;0;0;0;0.64;0;0;1.98;0;0;0;0;0;0;0;0;Annealed;600;-;Smithhalls hb 14-30 
+steel26_6;Balance;0.48;0.9;0;0;0;0;0.64;0;0;1.98;0;0;0;0;0;0;0;0;Annealed;800;-;Smithhalls hb 14-30 
+steel26_7;Balance;0.48;0.9;0;0;0;0;0.64;0;0;1.98;0;0;0;0;0;0;0;0;Annealed;1000;-;Smithhalls hb 14-30 
+stee27_1;Balance;0.1;0;0;0.5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;23;46.1;Smithhalls hb 14-30 
+stee27_2;Balance;0.1;0;0;0.5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;100;45.2;Smithhalls hb 14-30 
+stee27_3;Balance;0.1;0;0;0.5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;200;44.4;Smithhalls hb 14-30 
+stee27_4;Balance;0.1;0;0;0.5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;400;41.5;Smithhalls hb 14-30 
+stee27_5;Balance;0.1;0;0;0.5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;600;36.9;Smithhalls hb 14-30 
+stee27_6;Balance;0.1;0;0;0.5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;700;35.2;Smithhalls hb 14-30 
+steel28_1;Balance;0.1;0;0;0;0;4.0/6.0;0;0;0;1.0 Max;0;0;0;0;0;0;0;0;Annealed;30;36;Smithhalls hb 14-30 
+steel28_2;Balance;0.1;0;0;0;0;4.0/6.0;0;0;0;1.0 Max;0;0;0;0;0;0;0;0;Annealed;100;-;Smithhalls hb 14-30 
+steel28_3;Balance;0.1;0;0;0;0;4.0/6.0;0;0;0;1.0 Max;0;0;0;0;0;0;0;0;Annealed;200;35.2;Smithhalls hb 14-30 
+steel28_4;Balance;0.1;0;0;0;0;4.0/6.0;0;0;0;1.0 Max;0;0;0;0;0;0;0;0;Annealed;400;-;Smithhalls hb 14-30 
+steel28_5;Balance;0.1;0;0;0;0;4.0/6.0;0;0;0;1.0 Max;0;0;0;0;0;0;0;0;Annealed;600;-;Smithhalls hb 14-30 
+steel28_6;Balance;0.1;0;0;0;0;4.0/6.0;0;0;0;1.0 Max;0;0;0;0;0;0;0;0;Annealed;800;26.8;Smithhalls hb 14-30 
+steel28_7;Balance;0.1;0;0;0;0;4.0/6.0;0;0;0;1.0 Max;0;0;0;0;0;0;0;0;Annealed;1200;26.8;Smithhalls hb 14-30 
+steel29_1;Balance;0.45;0.5;0;0;0;3.5;0;0;0;3.5;0;0;0;0;0;0;0;0;-;23;22.2;Smithhalls hb 14-30 
+steel29_2;Balance;0.45;0.5;0;0;0;3.5;0;0;0;3.5;0;0;0;0;0;0;0;0;-;100;-;Smithhalls hb 14-30 
+steel29_3;Balance;0.45;0.5;0;0;0;3.5;0;0;0;3.5;0;0;0;0;0;0;0;0;-;300;-;Smithhalls hb 14-30 
+steel29_4;Balance;0.45;0.5;0;0;0;3.5;0;0;0;3.5;0;0;0;0;0;0;0;0;-;500;-;Smithhalls hb 14-30 
+steel29_5;Balance;0.45;0.5;0;0;0;3.5;0;0;0;3.5;0;0;0;0;0;0;0;0;-;700;-;Smithhalls hb 14-30 
+steel29_6;Balance;0.45;0.5;0;0;0;3.5;0;0;0;3.5;0;0;0;0;0;0;0;0;-;900;31.4;Smithhalls hb 14-30 
+steel30_1;Balance;0.45;0.5;0;0;0;8;0;0;0;3.4;0;0;0;0;0;0;0;0;-;23;22.2;Smithhalls hb 14-30 
+steel30_2;Balance;0.45;0.5;0;0;0;8;0;0;0;3.4;0;0;0;0;0;0;0;0;-;100;-;Smithhalls hb 14-30 
+steel30_3;Balance;0.45;0.5;0;0;0;8;0;0;0;3.4;0;0;0;0;0;0;0;0;-;300;-;Smithhalls hb 14-30 
+steel30_4;Balance;0.45;0.5;0;0;0;8;0;0;0;3.4;0;0;0;0;0;0;0;0;-;500;-;Smithhalls hb 14-30 
+steel30_5;Balance;0.45;0.5;0;0;0;8;0;0;0;3.4;0;0;0;0;0;0;0;0;-;700;-;Smithhalls hb 14-30 
+steel30_6;Balance;0.45;0.5;0;0;0;8;0;0;0;3.4;0;0;0;0;0;0;0;0;-;900;31.4;Smithhalls hb 14-30 
+steel31_1;Balance;0.4;0.3;0;0;0;11.5;0;0;0;0;0;0;0;0;0;0;0;0;-;23;23.5;Smithhalls hb 14-30 
+steel31_2;Balance;0.4;0.3;0;0;0;11.5;0;0;0;0;0;0;0;0;0;0;0;0;-;100;-;Smithhalls hb 14-30 
+steel31_3;Balance;0.4;0.3;0;0;0;11.5;0;0;0;0;0;0;0;0;0;0;0;0;-;300;-;Smithhalls hb 14-30 
+steel31_4;Balance;0.4;0.3;0;0;0;11.5;0;0;0;0;0;0;0;0;0;0;0;0;-;500;-;Smithhalls hb 14-30 
+steel31_5;Balance;0.4;0.3;0;0;0;11.5;0;0;0;0;0;0;0;0;0;0;0;0;-;700;-;Smithhalls hb 14-30 
+steel31_6;Balance;0.4;0.3;0;0;0;11.5;0;0;0;0;0;0;0;0;0;0;0;0;-;750;24.3;Smithhalls hb 14-30 
+steel32_1;Balance;0.12;0;0;1;0;9;0;0;0;0;0;0;0;0;0;0;0;0;-;23;26;Smithhalls hb 14-30 
+steel32_2;Balance;0.12;0;0;1;0;9;0;0;0;0;0;0;0;0;0;0;0;0;-;100;26.4;Smithhalls hb 14-30 
+steel32_3;Balance;0.12;0;0;1;0;9;0;0;0;0;0;0;0;0;0;0;0;0;-;200;26.8;Smithhalls hb 14-30 
+steel32_4;Balance;0.12;0;0;1;0;9;0;0;0;0;0;0;0;0;0;0;0;0;-;400;27.6;Smithhalls hb 14-30 
+steel32_5;Balance;0.12;0;0;1;0;9;0;0;0;0;0;0;0;0;0;0;0;0;-;600;26.8;Smithhalls hb 14-30 
+steel32_6;Balance;0.12;0;0;1;0;9;0;0;0;0;0;0;0;0;0;0;0;0;-;700;26.8;Smithhalls hb 14-30 
+steel33_1;Balance;0.13;0.25;0.14;0;0;12.95;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;23;26.8;Smithhalls hb 14-30 
+steel33_2;Balance;0.13;0.25;0.14;0;0;12.95;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;100;27.6;Smithhalls hb 14-30 
+steel33_3;Balance;0.13;0.25;0.14;0;0;12.95;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;200;27.6;Smithhalls hb 14-30 
+steel33_4;Balance;0.13;0.25;0.14;0;0;12.95;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;400;27.6;Smithhalls hb 14-30 
+steel33_5;Balance;0.13;0.25;0.14;0;0;12.95;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;600;26.4;Smithhalls hb 14-30 
+steel33_6;Balance;0.13;0.25;0.14;0;0;12.95;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;800;25.1;Smithhalls hb 14-30 
+steel33_7;Balance;0.13;0.25;0.14;0;0;12.95;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;1000;27.6;Smithhalls hb 14-30 
+steel34_1;Balance;0.07;0.8;0;0;0;17;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;23;21.8;Smithhalls hb 14-30 
+steel34_2;Balance;0.07;0.8;0;0;0;17;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;100;-;Smithhalls hb 14-30 
+steel34_3;Balance;0.07;0.8;0;0;0;17;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;200;-;Smithhalls hb 14-30 
+steel34_4;Balance;0.07;0.8;0;0;0;17;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;300;-;Smithhalls hb 14-30 
+steel35_1;Balance;0.06;0.8;0;0;0;21;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;23;21.8;Smithhalls hb 14-30 
+steel35_2;Balance;0.06;0.8;0;0;0;21;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;100;-;Smithhalls hb 14-30 
+steel35_3;Balance;0.06;0.8;0;0;0;21;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;300;-;Smithhalls hb 14-30 
+steel35_4;Balance;0.06;0.8;0;0;0;21;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;500;-;Smithhalls hb 14-30 
+steel35_5;Balance;0.06;0.8;0;0;0;21;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;700;-;Smithhalls hb 14-30 
+steel35_6;Balance;0.06;0.8;0;0;0;21;0;0;0;0;0;0;0;0;0;0;0;0;Annealed;900;-;Smithhalls hb 14-30 
+steel36_1;Balance;0.22;0;0.26;0;0;30.4;0;0;0;0;0;0;0;0;0;0;0;0;-;23;12.6;Smithhalls hb 14-30 
+steel36_2;Balance;0.22;0;0.26;0;0;30.4;0;0;0;0;0;0;0;0;0;0;0;0;-;100;-;Smithhalls hb 14-30 
+steel37_1;Balance;1.22;1.3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;23;13;Smithhalls hb 14-30 
+steel37_2;Balance;1.22;1.3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;100;14.6;Smithhalls hb 14-30 
+steel37_3;Balance;1.22;1.3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;200;16.3;Smithhalls hb 14-30 
+steel37_4;Balance;1.22;1.3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;400;19.3;Smithhalls hb 14-30 
+steel37_5;Balance;1.22;1.3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;600;21.8;Smithhalls hb 14-30 
+steel37_6;Balance;1.22;1.3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;800;23.5;Smithhalls hb 14-30 
+steel37_7;Balance;1.22;1.3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;1000;25.5;Smithhalls hb 14-30 
+steel38_1;Balance;0.28;0.89;28.4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;23;12.6;Smithhalls hb 14-30 
+steel38_2;Balance;0.28;0.89;28.4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;100;14.7;Smithhalls hb 14-30 
+steel38_3;Balance;0.28;0.89;28.4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;200;16.3;Smithhalls hb 14-30 
+steel38_4;Balance;0.28;0.89;28.4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;400;18.9;Smithhalls hb 14-30 
+steel38_5;Balance;0.28;0.89;28.4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;600;22.2;Smithhalls hb 14-30 
+steel38_6;Balance;0.28;0.89;28.4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;800;25.1;Smithhalls hb 14-30 
+steel38_7;Balance;0.28;0.89;28.4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;1000;27.6;Smithhalls hb 14-30 
+steel39_1;Balance;0.1;0.6;0;0;0;12;0;4.5;0;0;0;0;0;0;0;0;0;0;Softened;23;-;Smithhalls hb 14-30 
+steel39_2;Balance;0.1;0.6;0;0;0;12;0;4.5;0;0;0;0;0;0;0;0;0;0;Softened;100;25.1;Smithhalls hb 14-30 
+steel39_3;Balance;0.1;0.6;0;0;0;12;0;4.5;0;0;0;0;0;0;0;0;0;0;Softened;300;-;Smithhalls hb 14-30 
+steel39_4;Balance;0.1;0.6;0;0;0;12;0;4.5;0;0;0;0;0;0;0;0;0;0;Softened;500;28.5;Smithhalls hb 14-30 
+steel39_5;Balance;0.1;0.6;0;0;0;12;0;4.5;0;0;0;0;0;0;0;0;0;0;Softened;600;-;Smithhalls hb 14-30 
+steel39_6;Balance;0.1;0.6;0;0;0;12;0;4.5;0;0;0;0;0;0;0;0;0;0;Softened;700;-;Smithhalls hb 14-30 
+steel39_7;Balance;0.1;0.6;0;0;0;12;0;4.5;0;0;0;0;0;0;0;0;0;0;Softened;850;-;Smithhalls hb 14-30 
+steel40_1;Balance;0.72;0.25;0.07;0;0;4.26;0;0;0;0;18.5;0;0;0;0;0;0;0;Annealed;23;24.3;Smithhalls hb 14-30 
+steel40_2;Balance;0.72;0.25;0.07;0;0;4.26;0;0;0;0;18.5;0;0;0;0;0;0;0;Annealed;100;26;Smithhalls hb 14-30 
+steel40_3;Balance;0.72;0.25;0.07;0;0;4.26;0;0;0;0;18.5;0;0;0;0;0;0;0;Annealed;200;27.2;Smithhalls hb 14-30 
+steel40_4;Balance;0.72;0.25;0.07;0;0;4.26;0;0;0;0;18.5;0;0;0;0;0;0;0;Annealed;400;28.5;Smithhalls hb 14-30 
+steel40_5;Balance;0.72;0.25;0.07;0;0;4.26;0;0;0;0;18.5;0;0;0;0;0;0;0;Annealed;600;27.2;Smithhalls hb 14-30 
+steel40_6;Balance;0.72;0.25;0.07;0;0;4.26;0;0;0;0;18.5;0;0;0;0;0;0;0;Annealed;800;26;Smithhalls hb 14-30 
+steel40_7;Balance;0.72;0.25;0.07;0;0;4.26;0;0;0;0;18.5;0;0;0;0;0;0;0;Annealed;1000;27.6;Smithhalls hb 14-30 
+steel41_1;Balance;0.16;0.2;2.5;0;0;16.5;0;0;0;0;0;0;0;0;0;0;0;0;Softened;23;18.8;Smithhalls hb 14-30 
+steel41_2;Balance;0.16;0.2;2.5;0;0;16.5;0;0;0;0;0;0;0;0;0;0;0;0;Softened;100;-;Smithhalls hb 14-30 
+steel41_3;Balance;0.16;0.2;2.5;0;0;16.5;0;0;0;0;0;0;0;0;0;0;0;0;Softened;300;-;Smithhalls hb 14-30 
+steel41_4;Balance;0.16;0.2;2.5;0;0;16.5;0;0;0;0;0;0;0;0;0;0;0;0;Softened;500;24.3;Smithhalls hb 14-30 
+steel42_1;Balance;0.08;0.3/0.5;8;0;0;18/20;0;0;0;0;0;0;0;0;0;0;0;0;-;23;15.9;Smithhalls hb 14-30 
+steel42_2;Balance;0.08;0.3/0.5;8;0;0;18/20;0;0;0;0;0;0;0;0;0;0;0;0;-;100;16.3;Smithhalls hb 14-30 
+steel42_3;Balance;0.08;0.3/0.5;8;0;0;18/20;0;0;0;0;0;0;0;0;0;0;0;0;-;200;17.2;Smithhalls hb 14-30 
+steel42_4;Balance;0.08;0.3/0.5;8;0;0;18/20;0;0;0;0;0;0;0;0;0;0;0;0;-;400;20.1;Smithhalls hb 14-30 
+steel42_5;Balance;0.08;0.3/0.5;8;0;0;18/20;0;0;0;0;0;0;0;0;0;0;0;0;-;600;23.9;Smithhalls hb 14-30 
+steel42_6;Balance;0.08;0.3/0.5;8;0;0;18/20;0;0;0;0;0;0;0;0;0;0;0;0;-;800;26.8;Smithhalls hb 14-30 
+steel42_7;Balance;0.08;0.3/0.5;8;0;0;18/20;0;0;0;0;0;0;0;0;0;0;0;0;-;1000;28.1;Smithhalls hb 14-30 
+steel43_1;Balance;0.12;1.5;11;0;0;17.5;0;0;1.2;0;0;0;0;0;0;0;0;0;Softened;23;15.9;Smithhalls hb 14-30 
+steel43_2;Balance;0.12;1.5;11;0;0;17.5;0;0;1.2;0;0;0;0;0;0;0;0;0;Softened;100;-;Smithhalls hb 14-30 
+steel43_3;Balance;0.12;1.5;11;0;0;17.5;0;0;1.2;0;0;0;0;0;0;0;0;0;Softened;300;17.2;Smithhalls hb 14-30 
+steel43_4;Balance;0.12;1.5;11;0;0;17.5;0;0;1.2;0;0;0;0;0;0;0;0;0;Softened;500;18.8;Smithhalls hb 14-30 
+steel43_5;Balance;0.12;1.5;11;0;0;17.5;0;0;1.2;0;0;0;0;0;0;0;0;0;Softened;700;20.1;Smithhalls hb 14-30 
+steel44_1;Balance;0.15;0.8;14;0;0;19;0;0;1.7;0;0;0;0;0;0;0;0;0;Softened;23;-;Smithhalls hb 14-30 
+steel44_2;Balance;0.15;0.8;14;0;0;19;0;0;1.7;0;0;0;0;0;0;0;0;0;Softened;100;15.1;Smithhalls hb 14-30 
+steel44_3;Balance;0.15;0.8;14;0;0;19;0;0;1.7;0;0;0;0;0;0;0;0;0;Softened;200;16.8;Smithhalls hb 14-30 
+steel44_4;Balance;0.15;0.8;14;0;0;19;0;0;1.7;0;0;0;0;0;0;0;0;0;Softened;400;20.1;Smithhalls hb 14-30 
+steel44_5;Balance;0.15;0.8;14;0;0;19;0;0;1.7;0;0;0;0;0;0;0;0;0;Softened;600;24.3;Smithhalls hb 14-30 
+steel45_1;Balance;0.3;0.6;8;0;0;20;0;0;0;1.5;4;0;0;0;0;0;0;0;Softened;23;13;Smithhalls hb 14-30 
+steel45_2;Balance;0.3;0.6;8;0;0;20;0;0;0;1.5;4;0;0;0;0;0;0;0;Softened;100;-;Smithhalls hb 14-30 
+steel45_3;Balance;0.3;0.6;8;0;0;20;0;0;0;1.5;4;0;0;0;0;0;0;0;Softened;300;-;Smithhalls hb 14-30 
+steel45_4;Balance;0.3;0.6;8;0;0;20;0;0;0;1.5;4;0;0;0;0;0;0;0;Softened;500;-;Smithhalls hb 14-30 
+steel45_5;Balance;0.3;0.6;8;0;0;20;0;0;0;1.5;4;0;0;0;0;0;0;0;Softened;700;-;Smithhalls hb 14-30 
+steel45_6;Balance;0.3;0.6;8;0;0;20;0;0;0;1.5;4;0;0;0;0;0;0;0;Softened;900;-;Smithhalls hb 14-30 
+steel45_7;Balance;0.3;0.6;8;0;0;20;0;0;0;1.5;4;0;0;0;0;0;0;0;Softened;1050;29;Smithhalls hb 14-30 
+Steel48_1;Balance;0.12;0.3;8.5;0;0;18.5;0;1.4;0;0;0;0;0.8;0;0;0;0;0;-;23;18;Smithhalls hb 14-30 
+Steel48_2;Balance;0.12;0.3;8.5;0;0;18.5;0;1.4;0;0;0;0;0.8;0;0;0;0;0;-;100;-;Smithhalls hb 14-30 
+Steel48_3;Balance;0.12;0.3;8.5;0;0;18.5;0;1.4;0;0;0;0;0.8;0;0;0;0;0;-;300;-;Smithhalls hb 14-30 
+Steel48_4;Balance;0.12;0.3;8.5;0;0;18.5;0;1.4;0;0;0;0;0.8;0;0;0;0;0;-;500;-;Smithhalls hb 14-30 
+Steel48_5;Balance;0.12;0.3;8.5;0;0;18.5;0;1.4;0;0;0;0;0.8;0;0;0;0;0;-;700;-;Smithhalls hb 14-30 
+Steel48_6;Balance;0.12;0.3;8.5;0;0;18.5;0;1.4;0;0;0;0;0.8;0;0;0;0;0;-;900;26;Smithhalls hb 14-30 
+Steel49_1;Balance;0.1;0.3;12.5;0;0;12.5;0;0;0;0;0;0;0;0;0;0;0;0;Softened;23;15.5;Smithhalls hb 14-30 
+Steel49_2;Balance;0.1;0.3;12.5;0;0;12.5;0;0;0;0;0;0;0;0;0;0;0;0;Softened;100;16.8;Smithhalls hb 14-30 
+Steel50_1;Balance;0.1;6;10;1;0;15;0;0;0;0;0;0;0;0;0;0;0;0;-;23;12.6;Smithhalls hb 14-30 
+Steel50_2;Balance;0.1;6;10;1;0;15;0;0;0;0;0;0;0;0;0;0;0;0;-;100;13.8;Smithhalls hb 14-30 
+Steel50_3;Balance;0.1;6;10;1;0;15;0;0;0;0;0;0;0;0;0;0;0;0;-;200;15.4;Smithhalls hb 14-30 
+Steel50_4;Balance;0.1;6;10;1;0;15;0;0;0;0;0;0;0;0;0;0;0;0;-;400;18.8;Smithhalls hb 14-30 
+Steel50_5;Balance;0.1;6;10;1;0;15;0;0;0;0;0;0;0;0;0;0;0;0;-;600;21.8;Smithhalls hb 14-30 
+Steel50_6;Balance;0.1;6;10;1;0;15;0;0;0;0;0;0;0;0;0;0;0;0;-;700;23;Smithhalls hb 14-30 
+Steel51_1;Balance;0.27;1.25;36;0;0;11;0;0;0;0;0;0;0;0;0;0;0;0;Softened;23;12.1;Smithhalls hb 14-30 
+Steel51_2;Balance;0.27;1.25;36;0;0;11;0;0;0;0;0;0;0;0;0;0;0;0;Softened;100;-;Smithhalls hb 14-30 
+Steel51_3;Balance;0.27;1.25;36;0;0;11;0;0;0;0;0;0;0;0;0;0;0;0;Softened;300;-;Smithhalls hb 14-30 
+Steel51_4;Balance;0.27;1.25;36;0;0;11;0;0;0;0;0;0;0;0;0;0;0;0;Softened;500;18.4;Smithhalls hb 14-30 
+Steel52_1;Balance;0.1;1.3;1.8;0;0;29;0;0;0;1.2;0;0;0;0;0;0;0;0;Softened;23;15.9;Smithhalls hb 14-30 
+Steel52_2;Balance;0.1;1.3;1.8;0;0;29;0;0;0;1.2;0;0;0;0;0;0;0;0;Softened;200;-;Smithhalls hb 14-30 
+Steel52_3;Balance;0.1;1.3;1.8;0;0;29;0;0;0;1.2;0;0;0;0;0;0;0;0;Softened;800;-;Smithhalls hb 14-30 
+Steel52_4;Balance;0.1;1.3;1.8;0;0;29;0;0;0;1.2;0;0;0;0;0;0;0;0;Softened;1000;-;Smithhalls hb 14-30 
+Steel52_5;Balance;0.1;1.3;1.8;0;0;29;0;0;0;1.2;0;0;0;0;0;0;0;0;Softened;1100;26.4;Smithhalls hb 14-30 
+Steel53_1;Balance;0.1;1;63;0;0;14;0;0;0;0;0;0;0;0;0;0;0;0;Softened;23;12.6;Smithhalls hb 14-30 
+Steel53_2;Balance;0.1;1;63;0;0;14;0;0;0;0;0;0;0;0;0;0;0;0;Softened;100;-;Smithhalls hb 14-30 
+Steel53_3;Balance;0.1;1;63;0;0;14;0;0;0;0;0;0;0;0;0;0;0;0;Softened;200;-;Smithhalls hb 14-30 
+Steel53_4;Balance;0.1;1;63;0;0;14;0;0;0;0;0;0;0;0;0;0;0;0;Softened;400;-;Smithhalls hb 14-30 
+Steel53_5;Balance;0.1;1;63;0;0;14;0;0;0;0;0;0;0;0;0;0;0;0;Softened;600;-;Smithhalls hb 14-30 
+Steel53_6;Balance;0.1;1;63;0;0;14;0;0;0;0;0;0;0;0;0;0;0;0;Softened;800;-;Smithhalls hb 14-30 
+Steel53_7;Balance;0.1;1;63;0;0;14;0;0;0;0;0;0;0;0;0;0;0;0;Softened;1000;28.9;Smithhalls hb 14-30 
+Steel54_1;Balance;0.3;3;17.5;3;0;16.5;0;0;2.5;0;0;0;0;7;0;0;0;0;Softened;23;12.6;Smithhalls hb 14-30 
+Steel54_2;Balance;0.3;3;17.5;3;0;16.5;0;0;2.5;0;0;0;0;7;0;0;0;0;Softened;100;-;Smithhalls hb 14-30 
+Steel54_3;Balance;0.3;3;17.5;3;0;16.5;0;0;2.5;0;0;0;0;7;0;0;0;0;Softened;300;-;Smithhalls hb 14-30 
+Steel54_4;Balance;0.3;3;17.5;3;0;16.5;0;0;2.5;0;0;0;0;7;0;0;0;0;Softened;500;-;Smithhalls hb 14-30 
+Steel54_5;Balance;0.3;3;17.5;3;0;16.5;0;0;2.5;0;0;0;0;7;0;0;0;0;Softened;700;-;Smithhalls hb 14-30 
+Steel55_1;Balance;0.4;0.8;13;2;0;13;0;0;3;1;2.5;0;0;10;0;0;0;0;Soluation treated;23;-;Smithhalls hb 14-30 
+Steel55_2;Balance;0.4;0.8;13;2;0;13;0;0;3;1;2.5;0;0;10;0;0;0;0;Soluation treated;100;13.4;Smithhalls hb 14-30 
+Steel55_3;Balance;0.4;0.8;13;2;0;13;0;0;3;1;2.5;0;0;10;0;0;0;0;Soluation treated;200;17.2;Smithhalls hb 14-30 
+Steel55_4;Balance;0.4;0.8;13;2;0;13;0;0;3;1;2.5;0;0;10;0;0;0;0;Soluation treated;400;18.8;Smithhalls hb 14-30 
+Steel55_5;Balance;0.4;0.8;13;2;0;13;0;0;3;1;2.5;0;0;10;0;0;0;0;Soluation treated;600;22.2;Smithhalls hb 14-30 
+Steel55_6;Balance;0.4;0.8;13;2;0;13;0;0;3;1;2.5;0;0;10;0;0;0;0;Soluation treated;800;25.5;Smithhalls hb 14-30 
+Steel56_1;Balance;0.27;0.77;10.5;2.2;3;19.1;0;0;1.4;0;0;0;0;46.6;0;0;0;0;-;23;-;Smithhalls hb 14-30 
+Steel56_2;Balance;0.27;0.77;10.5;2.2;3;19.1;0;0;1.4;0;0;0;0;46.6;0;0;0;0;-;100;14.7;Smithhalls hb 14-30 
+Steel56_3;Balance;0.27;0.77;10.5;2.2;3;19.1;0;0;1.4;0;0;0;0;46.6;0;0;0;0;-;200;16.3;Smithhalls hb 14-30 
+Steel56_4;Balance;0.27;0.77;10.5;2.2;3;19.1;0;0;1.4;0;0;0;0;46.6;0;0;0;0;-;400;19.7;Smithhalls hb 14-30 
+Steel56_5;Balance;0.27;0.77;10.5;2.2;3;19.1;0;0;1.4;0;0;0;0;46.6;0;0;0;0;-;600;23;Smithhalls hb 14-30 
+Steel56_6;Balance;0.27;0.77;10.5;2.2;3;19.1;0;0;1.4;0;0;0;0;46.6;0;0;0;0;-;800;26;Smithhalls hb 14-30 
+Steel57_1;Balance;0.11;0.35;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;100;48.6;Smithhalls hb 14-30 
+Steel57_2;Balance;0.11;0.35;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;200;-;Smithhalls hb 14-30 
+Steel57_3;Balance;0.11;0.35;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;300;-;Smithhalls hb 14-30 
+Steel57_4;Balance;0.11;0.35;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;400;-;Smithhalls hb 14-30 
+Steel57_5;Balance;0.11;0.35;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;500;-;Smithhalls hb 14-30 
+Steel57_6;Balance;0.11;0.35;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;600;-;Smithhalls hb 14-30 
+Steel58_1;Balance;0.4;0.5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;100;42.3;Smithhalls hb 14-30 
+Steel58_2;Balance;0.4;0.5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;200;-;Smithhalls hb 14-30 
+Steel58_3;Balance;0.4;0.5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;300;-;Smithhalls hb 14-30 
+Steel58_4;Balance;0.4;0.5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;400;-;Smithhalls hb 14-30 
+Steel58_5;Balance;0.4;0.5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;500;-;Smithhalls hb 14-30 
+Steel58_6;Balance;0.4;0.5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;600;-;Smithhalls hb 14-30 
+Steel59_1;Balance;0.34;0;2.82;0.42;0;0.74;0;0;0;0;0;0;0;0;0;0;0;0;-;100;39.4;Smithhalls hb 14-30 
+Steel59_2;Balance;0.34;0;2.82;0.42;0;0.74;0;0;0;0;0;0;0;0;0;0;0;0;-;200;-;Smithhalls hb 14-30 
+Steel59_3;Balance;0.34;0;2.82;0.42;0;0.74;0;0;0;0;0;0;0;0;0;0;0;0;-;300;-;Smithhalls hb 14-30 
+Steel59_4;Balance;0.34;0;2.82;0.42;0;0.74;0;0;0;0;0;0;0;0;0;0;0;0;-;400;-;Smithhalls hb 14-30 
+Steel59_5;Balance;0.34;0;2.82;0.42;0;0.74;0;0;0;0;0;0;0;0;0;0;0;0;-;500;-;Smithhalls hb 14-30 
+Steel59_6;Balance;0.34;0;2.82;0.42;0;0.74;0;0;0;0;0;0;0;0;0;0;0;0;-;600;-;Smithhalls hb 14-30 
+Steel60_1;Balance;0.27;0;1.07;0;0;12.1;0;0;0;1.16;0;0;0;0;0;0;0;0;-;100;-;Smithhalls hb 14-30 
+Steel60_2;Balance;0.27;0;1.07;0;0;12.1;0;0;0;1.16;0;0;0;0;0;0;0;0;-;200;-;Smithhalls hb 14-30 
+Steel60_3;Balance;0.27;0;1.07;0;0;12.1;0;0;0;1.16;0;0;0;0;0;0;0;0;-;300;-;Smithhalls hb 14-30 
+Steel60_4;Balance;0.27;0;1.07;0;0;12.1;0;0;0;1.16;0;0;0;0;0;0;0;0;-;400;25.1;Smithhalls hb 14-30 
+Steel60_5;Balance;0.27;0;1.07;0;0;12.1;0;0;0;1.16;0;0;0;0;0;0;0;0;-;500;-;Smithhalls hb 14-30 
+Steel60_6;Balance;0.27;0;1.07;0;0;12.1;0;0;0;1.16;0;0;0;0;0;0;0;0;-;600;-;Smithhalls hb 14-30 
+Steel61_1;Balance;0.19;0;0;0.5;0;1.13;0;0;0;0;0;0;0;0;0;0;0;0;-;100;28.7;Smithhalls hb 14-30 
+Steel61_2;Balance;0.19;0;0;0.5;0;1.13;0;0;0;0;0;0;0;0;0;0;0;0;-;200;-;Smithhalls hb 14-30 
+Steel61_3;Balance;0.19;0;0;0.5;0;1.13;0;0;0;0;0;0;0;0;0;0;0;0;-;300;-;Smithhalls hb 14-30 
+Steel61_4;Balance;0.19;0;0;0.5;0;1.13;0;0;0;0;0;0;0;0;0;0;0;0;-;400;-;Smithhalls hb 14-30 
+Steel61_5;Balance;0.19;0;0;0.5;0;1.13;0;0;0;0;0;0;0;0;0;0;0;0;-;500;-;Smithhalls hb 14-30 
+Steel61_6;Balance;0.19;0;0;0.5;0;1.13;0;0;0;0;0;0;0;0;0;0;0;0;-;600;-;Smithhalls hb 14-30 
+Steel62_1;Balance;0.13;0.8;0;0;0;12.5;0;0;0;0;0;0;0;0;0;0;0;0;-;100;24.7;Smithhalls hb 14-30 
+Steel62_2;Balance;0.13;0.8;0;0;0;12.5;0;0;0;0;0;0;0;0;0;0;0;0;-;300;-;Smithhalls hb 14-30 
+Steel62_3;Balance;0.13;0.8;0;0;0;12.5;0;0;0;0;0;0;0;0;0;0;0;0;-;500;-;Smithhalls hb 14-30 
+Steel62_4;Balance;0.13;0.8;0;0;0;12.5;0;0;0;0;0;0;0;0;0;0;0;0;-;600;27.6;Smithhalls hb 14-30 
+Steel63_1;Balance;0.25;0.7;0;0;0;12.5;0;0;0;0;0;0;0;0;0;0;0;0;-;100;24.3;Smithhalls hb 14-30 
+Steel63_2;Balance;0.25;0.7;0;0;0;12.5;0;0;0;0;0;0;0;0;0;0;0;0;-;300;-;Smithhalls hb 14-30 
+Steel63_3;Balance;0.25;0.7;0;0;0;12.5;0;0;0;0;0;0;0;0;0;0;0;0;-;500;-;Smithhalls hb 14-30 
+Steel63_4;Balance;0.25;0.7;0;0;0;12.5;0;0;0;0;0;0;0;0;0;0;0;0;-;600;26;Smithhalls hb 14-30 
+Steel64_1;Balance;0.07;0.8;8.5;0;0;18;0;0;0;0.7;0;0;0;0;0;0;0;0;-;100;16.3;Smithhalls hb 14-30 
+Steel65_1;Balance;0.08;0.5;9;0;0;18;0;0;0.9;1;0;0;0;0;0;0;0;0;Normalised;100;15.9;Smithhalls hb 14-30 
+Steel65_2;Balance;0.08;0.5;9;0;0;18;0;0;0.9;1;0;0;0;0;0;0;0;0;Normalised;300;-;Smithhalls hb 14-30 
+Steel65_3;Balance;0.08;0.5;9;0;0;18;0;0;0.9;1;0;0;0;0;0;0;0;0;Normalised;500;-;Smithhalls hb 14-30 
+Steel65_4;Balance;0.08;0.5;9;0;0;18;0;0;0.9;1;0;0;0;0;0;0;0;0;Normalised;700;20.1;Smithhalls hb 14-30 
+Steel66;Balance;0.12;0.8;9;0;0;19;0;0;0;1.5;0;0;0.6;0;0;0;0;0;Normalised;100;15.5;Smithhalls hb 14-30 
+Steel67_1;Balance;0.06;0.7;12;3.6;0;19;0;0;0;0.7;0;0;0;0;0;0;0;0;Water quenched;23;-;Smithhalls hb 14-30 
+Steel67_2;Balance;0.06;0.7;12;3.6;0;19;0;0;0;0.7;0;0;0;0;0;0;0;0;Water quenched;100;16.3;Smithhalls hb 14-30 
+Steel68;Balance;0.07;1;10.5;2.75;0;18;0;0;0;1;0;0;0;0;0;0;0;0;Normalised;23;16.3;Smithhalls hb 14-30 
+Steel69_1;Balance;0.08;0.5;10.5;2.75;0;18;0;0;0.9;1;0;0;0;0;0;0;0;0;Normalised;23;16.3;Smithhalls hb 14-30 
+Steel69_2;Balance;0.08;0.5;10.5;2.75;0;18;0;0;0.9;1;0;0;0;0;0;0;0;0;Normalised;100;17.6;Smithhalls hb 14-30 
+Steel70_1;Balance;0.1;0.8;10;2.75;0;18;0;0;0;1.5;0;0;0.6;0;0;0;0;0;Normalised;23;-;Smithhalls hb 14-30 
+Steel70_2;Balance;0.1;0.8;10;2.75;0;18;0;0;0;1.5;0;0;0.6;0;0;0;0;0;Normalised;100;15.5;Smithhalls hb 14-30 
+Steel71_1;Balance;0.06;0.6;8.5;2.5;0;18;0;0;0;0.7;0;0;0;0;0;0;0;0;Normalised;23;-;Smithhalls hb 14-30 
+Steel71_2;Balance;0.06;0.6;8.5;2.5;0;18;0;0;0;0.7;0;0;0;0;0;0;0;0;Normalised;100;16.3;Smithhalls hb 14-30 
+Steel72_1;Balance;0.25;0.7;0;0;0;12.5;0;0;0;0.7;0;0;0;0;0;0;0;0;Hardened and tempered;23;24.3;Smithhalls hb 14-30 
+Steel72_2;Balance;0.25;0.7;0;0;0;12.5;0;0;0;0.7;0;0;0;0;0;0;0;0;Hardened and tempered;100;-;Smithhalls hb 14-30 
+Steel72_3;Balance;0.25;0.7;0;0;0;12.5;0;0;0;0.7;0;0;0;0;0;0;0;0;Hardened and tempered;300;-;Smithhalls hb 14-30 
+Steel72_4;Balance;0.25;0.7;0;0;0;12.5;0;0;0;0.7;0;0;0;0;0;0;0;0;Hardened and tempered;500;-;Smithhalls hb 14-30 
+Steel72_5;Balance;0.25;0.7;0;0;0;12.5;0;0;0;0.7;0;0;0;0;0;0;0;0;Hardened and tempered;600;26;Smithhalls hb 14-30 
+Steel73_1;Balance;0.4;0.9;0;0;0;29;0;0;0;0.8;0;0;0;0;0;0;0;0;Tempered;23;20.9;Smithhalls hb 14-30 
+Steel73_2;Balance;0.4;0.9;0;0;0;29;0;0;0;0.8;0;0;0;0;0;0;0;0;Tempered;100;-;Smithhalls hb 14-30 
+Steel73_3;Balance;0.4;0.9;0;0;0;29;0;0;0;0.8;0;0;0;0;0;0;0;0;Tempered;200;-;Smithhalls hb 14-30 
+Steel73_4;Balance;0.4;0.9;0;0;0;29;0;0;0;0.8;0;0;0;0;0;0;0;0;Tempered;400;-;Smithhalls hb 14-30 
+Steel73_5;Balance;0.4;0.9;0;0;0;29;0;0;0;0.8;0;0;0;0;0;0;0;0;Tempered;600;-;Smithhalls hb 14-30 
+Steel73_6;Balance;0.4;0.9;0;0;0;29;0;0;0;0.8;0;0;0;0;0;0;0;0;Tempered;800;-;Smithhalls hb 14-30 
+Steel73_7;Balance;0.4;0.9;0;0;0;29;0;0;0;0.8;0;0;0;0;0;0;0;0;Tempered;1000;-;Smithhalls hb 14-30 
+Steel74_1;Balance;1.7;0.7;0;0;0;27;0;0;0;0.7;0;0;0;0;0;0;0;0;Tempered;23;20.9;Smithhalls hb 14-30 
+Steel74_2;Balance;1.7;0.7;0;0;0;27;0;0;0;1.7;0;0;0;0;0;0;0;0;Tempered;100;-;Smithhalls hb 14-30 
+Steel74_3;Balance;1.7;0.7;0;0;0;27;0;0;0;1.7;0;0;0;0;0;0;0;0;Tempered;200;-;Smithhalls hb 14-30 
+Steel74_4;Balance;1.7;0.7;0;0;0;27;0;0;0;1.7;0;0;0;0;0;0;0;0;Tempered;400;-;Smithhalls hb 14-30 
+Steel74_5;Balance;1.7;0.7;0;0;0;27;0;0;0;1.7;0;0;0;0;0;0;0;0;Tempered;600;-;Smithhalls hb 14-30 
+Steel74_6;Balance;1.7;0.7;0;0;0;27;0;0;0;1.7;0;0;0;0;0;0;0;0;Tempered;800;-;Smithhalls hb 14-30 
+Steel74_7;Balance;1.7;0.7;0;0;0;27;0;0;0;1.7;0;0;0;0;0;0;0;0;Tempered;1000;-;Smithhalls hb 14-30 
+Steel75_1;Balance;0.3;1.5;10;0;0;20;0;0;0;1.5;0;0;0;0;0;0;0;0;-;23;-;Smithhalls hb 14-30 
+Steel75_2;Balance;0.3;1.5;10;0;0;20;0;0;0;1.5;0;0;0;0;0;0;0;0;-;100;15.5;Smithhalls hb 14-30 
+Steel75_3;Balance;0.3;1.5;10;0;0;20;0;0;0;1.5;0;0;0;0;0;0;0;0;-;500;-;Smithhalls hb 14-30 
+Steel75_4;Balance;0.3;1.5;10;0;0;20;0;0;0;1.5;0;0;0;0;0;0;0;0;-;800;26.8;Smithhalls hb 14-30 
+Steel75_5;Balance;0.3;1.5;10;0;0;20;0;0;0;1.5;0;0;0;0;0;0;0;0;-;1100;-;Smithhalls hb 14-30 
+Steel76_1;Balance;0.35;0.8;7;0;0;21;0;0;0;1.5;4;0;0;0;0;0;0;0;-;23;10.9;Smithhalls hb 14-30 
+Steel76_2;Balance;0.35;0.8;0;0;0;21;0;0;0;1.5;4;0;0;0;0;0;0;0;-;100;-;Smithhalls hb 14-30 
+Steel76_3;Balance;0.35;0.8;0;0;0;21;0;0;0;1.5;4;0;0;0;0;0;0;0;-;300;-;Smithhalls hb 14-30 
+Steel76_4;Balance;0.35;0.8;0;0;0;21;0;0;0;1.5;4;0;0;0;0;0;0;0;-;500;-;Smithhalls hb 14-30 
+Steel76_5;Balance;0.35;0.8;0;0;0;21;0;0;0;1.5;4;0;0;0;0;0;0;0;-;700;-;Smithhalls hb 14-30 
+Steel76_6;Balance;0.35;0.8;0;0;0;21;0;0;0;1.5;4;0;0;0;0;0;0;0;-;900;26.8;Smithhalls hb 14-30 
+Steel76_7;Balance;0.35;0.8;0;0;0;21;0;0;0;1.5;4;0;0;0;0;0;0;0;-;1000;-;Smithhalls hb 14-30 
+Steel77_1;Balance;0.2;1.3;13;0;0;25;0;0;0;1.2;0;0;0;0;0;0;0;0;Normalised;23;13.8;Smithhalls hb 14-30 
+Steel77_2;Balance;0.2;1.3;13;0;0;25;0;0;0;1.2;0;0;0;0;0;0;0;0;Normalised;100;-;Smithhalls hb 14-30 
+Steel77_3;Balance;0.2;1.3;13;0;0;25;0;0;0;1.2;0;0;0;0;0;0;0;0;Normalised;200;-;Smithhalls hb 14-30 
+Steel77_4;Balance;0.2;1.3;13;0;0;25;0;0;0;1.2;0;0;0;0;0;0;0;0;Normalised;400;-;Smithhalls hb 14-30 
+Steel77_5;Balance;0.2;1.3;13;0;0;25;0;0;0;1.2;0;0;0;0;0;0;0;0;Normalised;600;-;Smithhalls hb 14-30 
+Steel77_6;Balance;0.2;1.3;13;0;0;25;0;0;0;1.2;0;0;0;0;0;0;0;0;Normalised;800;-;Smithhalls hb 14-30 
+Steel77_7;Balance;0.2;1.3;13;0;0;25;0;0;0;1.2;0;0;0;0;0;0;0;0;Normalised;1000;-;Smithhalls hb 14-30 
+Steel78_1;Balance;0.2;0.8;12;0;0;23;0;0;0;1;3;0;0;0;0;0;0;0;Normalised;23;12.6;Smithhalls hb 14-30 
+Steel78_2;Balance;0.2;0.8;12;0;0;23;0;0;0;1;3;0;0;0;0;0;0;0;Normalised;100;-;Smithhalls hb 14-30 
+Steel78_3;Balance;0.2;0.8;12;0;0;23;0;0;0;1;3;0;0;0;0;0;0;0;Normalised;300;-;Smithhalls hb 14-30 
+Steel78_4;Balance;0.2;0.8;12;0;0;23;0;0;0;1;3;0;0;0;0;0;0;0;Normalised;500;-;Smithhalls hb 14-30 
+Steel78_5;Balance;0.2;0.8;12;0;0;23;0;0;0;1;3;0;0;0;0;0;0;0;Normalised;700;-;Smithhalls hb 14-30 
+Steel78_6;Balance;0.2;0.8;12;0;0;23;0;0;0;1;3;0;0;0;0;0;0;0;Normalised;900;-;Smithhalls hb 14-30 
+Steel78_7;Balance;0.2;0.8;12;0;0;23;0;0;0;1;3;0;0;0;0;0;0;0;Normalised;1000;29.3;Smithhalls hb 14-30 
+Steel79_1;Balance;0.2;1;20;0;0;25;0;0;0;1.5;0;0;0;0;0;0;0;0;Normalised;23;15.9;Smithhalls hb 14-30 
+Steel79_2;Balance;0.2;1;20;0;0;25;0;0;0;1.5;0;0;0;0;0;0;0;0;Normalised;100;-;Smithhalls hb 14-30 
+Steel79_3;Balance;0.2;1;20;0;0;25;0;0;0;1.5;0;0;0;0;0;0;0;0;Normalised;200;-;Smithhalls hb 14-30 
+Steel79_4;Balance;0.2;1;20;0;0;25;0;0;0;1.5;0;0;0;0;0;0;0;0;Normalised;400;-;Smithhalls hb 14-30 
+Steel79_5;Balance;0.2;1;20;0;0;25;0;0;0;1.5;0;0;0;0;0;0;0;0;Normalised;600;-;Smithhalls hb 14-30 
+Steel79_6;Balance;0.2;1;20;0;0;25;0;0;0;1.5;0;0;0;0;0;0;0;0;Normalised;800;-;Smithhalls hb 14-30 
+Steel79_7;Balance;0.2;1;20;0;0;25;0;0;0;1.5;0;0;0;0;0;0;0;0;Normalised;1000;-;Smithhalls hb 14-30 
+Steel80_1;Balance;0.35;0.75;25;0;0;15;0;0;0;0.9;0;0;0;0;0;0;0;0;-;23;12.6;Smithhalls hb 14-30 
+Steel80_2;Balance;0.35;0.75;25;0;0;15;0;0;0;0.9;0;0;0;0;0;0;0;0;-;100;-;Smithhalls hb 14-30 
+Steel80_3;Balance;0.35;0.75;25;0;0;15;0;0;0;0.9;0;0;0;0;0;0;0;0;-;300;-;Smithhalls hb 14-30 
+Steel80_4;Balance;0.35;0.75;25;0;0;15;0;0;0;0.9;0;0;0;0;0;0;0;0;-;500;-;Smithhalls hb 14-30 
+Steel80_5;Balance;0.35;0.75;25;0;0;15;0;0;0;0.9;0;0;0;0;0;0;0;0;-;700;-;Smithhalls hb 14-30 
+Steel80_6;Balance;0.35;0.75;25;0;0;15;0;0;0;0.9;0;0;0;0;0;0;0;0;-;900;-;Smithhalls hb 14-30 
+Steel80_7;Balance;0.35;0.75;25;0;0;15;0;0;0;0.9;0;0;0;0;0;0;0;0;-;1000;29.3;Smithhalls hb 14-30 
+Steel81_1;Balance;0.5;1.5;35;0;0;15;0;0;0;2;0;0;0;0;0;0;0;0;-;23;-;Smithhalls hb 14-30 
+Steel81_2;Balance;0.5;1.5;35;0;0;15;0;0;0;2;0;0;0;0;0;0;0;0;-;100;13.4;Smithhalls hb 14-30 
+Steel81_3;Balance;0.5;1.5;35;0;0;15;0;0;0;2;0;0;0;0;0;0;0;0;-;500;-;Smithhalls hb 14-30 
+Steel81_4;Balance;0.5;1.5;35;0;0;15;0;0;0;2;0;0;0;0;0;0;0;0;-;800;-;Smithhalls hb 14-30 
+Steel81_5;Balance;0.5;1.5;35;0;0;15;0;0;0;2;0;0;0;0;0;0;0;0;-;1100;-;Smithhalls hb 14-30 
+Steel82_1;Balance;0.5;1.5;40;0;0;20;0;0;0;2;0;0;0;0;0;0;0;0;Cast;23;-;Smithhalls hb 14-30 
+Steel82_2;Balance;0.5;1.5;40;0;0;20;0;0;0;2;0;0;0;0;0;0;0;0;Cast;100;13.4;Smithhalls hb 14-30 
+Steel82_3;Balance;0.5;1.5;40;0;0;20;0;0;0;2;0;0;0;0;0;0;0;0;Cast;500;-;Smithhalls hb 14-30 
+Steel82_4;Balance;0.5;1.5;40;0;0;20;0;0;0;2;0;0;0;0;0;0;0;0;Cast;800;23.9;Smithhalls hb 14-30 
+Steel82_5;Balance;0.5;1.5;40;0;0;20;0;0;0;2;0;0;0;0;0;0;0;0;Cast;1100;-;Smithhalls hb 14-30 
+Steel83_1;Balance;0.5;1.5;60;0;0;15;0;0;0;2;0;0;0;0;0;0;0;0;Cast;23;-;Smithhalls hb 14-30 
+Steel83_2;Balance;0.5;1.5;60;0;0;15;0;0;0;2;0;0;0;0;0;0;0;0;Cast;100;13.4;Smithhalls hb 14-30 
+Steel83_3;Balance;0.5;1.5;60;0;0;15;0;0;0;2;0;0;0;0;0;0;0;0;Cast;500;-;Smithhalls hb 14-30 
+Steel83_4;Balance;0.5;1.5;60;0;0;15;0;0;0;2;0;0;0;0;0;0;0;0;Cast;800;23;Smithhalls hb 14-30 
+Steel83_5;Balance;0.5;1.5;60;0;0;15;0;0;0;2;0;0;0;0;0;0;0;0;Cast;1100;-;Smithhalls hb 14-30 
+Steel84_1;Balance;0.01;1.5;13.9;2.3;0;16.4;0;0.02;0.06;0.75;0;0;0.08;0.01;0.02;0;0.01;0;-;27;13.4;Thermal and Structural Properties of Fusion related Materials, P. Kardititas, M-J Baptiste, http://www-ferp.ucsd.edu/LIB/PROPS/PANOS/ss.html
+Steel84_2;Balance;0.01;1.5;13.9;2.3;0;16.4;0;0.02;0.06;0.75;0;0;0.08;0.01;0.02;0;0.01;0;-;127;15.2;Thermal and Structural Properties of Fusion related Materials, P. Kardititas, M-J Baptiste, http://www-ferp.ucsd.edu/LIB/PROPS/PANOS/ss.html
+Steel84_3;Balance;0.01;1.5;13.9;2.3;0;16.4;0;0.02;0.06;0.75;0;0;0.08;0.01;0.02;0;0.01;0;-;227;16.75;Thermal and Structural Properties of Fusion related Materials, P. Kardititas, M-J Baptiste, http://www-ferp.ucsd.edu/LIB/PROPS/PANOS/ss.html
+Steel84_4;Balance;0.01;1.5;13.9;2.3;0;16.4;0;0.02;0.06;0.75;0;0;0.08;0.01;0.02;0;0.01;0;-;327;18.3;Thermal and Structural Properties of Fusion related Materials, P. Kardititas, M-J Baptiste, http://www-ferp.ucsd.edu/LIB/PROPS/PANOS/ss.html
+Steel84_5;Balance;0.01;1.5;13.9;2.3;0;16.4;0;0.02;0.06;0.75;0;0;0.08;0.01;0.02;0;0.01;0;-;427;19.8;Thermal and Structural Properties of Fusion related Materials, P. Kardititas, M-J Baptiste, http://www-ferp.ucsd.edu/LIB/PROPS/PANOS/ss.html
+Steel84_6;Balance;0.01;1.5;13.9;2.3;0;16.4;0;0.02;0.06;0.75;0;0;0.08;0.01;0.02;0;0.01;0;-;527;21.3;Thermal and Structural Properties of Fusion related Materials, P. Kardititas, M-J Baptiste, http://www-ferp.ucsd.edu/LIB/PROPS/PANOS/ss.html
+Steel84_7;Balance;0.01;1.5;13.9;2.3;0;16.4;0;0.02;0.06;0.75;0;0;0.08;0.01;0.02;0;0.01;0;-;627;22.75;Thermal and Structural Properties of Fusion related Materials, P. Kardititas, M-J Baptiste, http://www-ferp.ucsd.edu/LIB/PROPS/PANOS/ss.html
+Steel84_8;Balance;0.01;1.5;13.9;2.3;0;16.4;0;0.02;0.06;0.75;0;0;0.08;0.01;0.02;0;0.01;0;-;727;24.2;Thermal and Structural Properties of Fusion related Materials, P. Kardititas, M-J Baptiste, http://www-ferp.ucsd.edu/LIB/PROPS/PANOS/ss.html
+Steel85_1;Balance;0.1 max;0.3/0.5;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;0;65.2;MATWEB online database http://matweb.com
+Steel85_2;Balance;0.1 max;0.3/0.5;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;1000;27.3;MATWEB online database http://matweb.com
+Steel85_3;Balance;0.1 max;0.3/0.5;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;800;28.4;MATWEB online database http://matweb.com
+Steel85_4;Balance;0.1 max;0.3/0.5;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;600;36.3;MATWEB online database http://matweb.com
+Steel85_5;Balance;0.1 max;0.3/0.5;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;400;45.2;MATWEB online database http://matweb.com
+Steel85_6;Balance;0.1 max;0.3/0.5;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;200;54.7;MATWEB online database http://matweb.com
+Steel85_7;Balance;0.1 max;0.3/0.5;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;100;60.2;MATWEB online database http://matweb.com
+Steel86_1;Balance;0.13/0.18;0.3/0.6;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;0;51.9;MATWEB online database http://matweb.com
+Steel86_2;Balance;0.13/0.18;0.3/0.6;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;200;48.9;MATWEB online database http://matweb.com
+Steel86_3;Balance;0.13/0.18;0.3/0.6;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;100;51;MATWEB online database http://matweb.com
+Steel87_1;Balance;0.19/0.25;0.3/0.6;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;0;51.9;MATWEB online database http://matweb.com
+Steel87_2;Balance;0.19/0.25;0.3/0.6;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;800;26.1;MATWEB online database http://matweb.com
+Steel87_3;Balance;0.19/0.25;0.3/0.6;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;1000;27.2;MATWEB online database http://matweb.com
+Steel87_4;Balance;0.19/0.25;0.3/0.6;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;1200;29.8;MATWEB online database http://matweb.com
+Steel87_5;Balance;0.19/0.25;0.3/0.6;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;700;31.8;MATWEB online database http://matweb.com
+Steel87_6;Balance;0.19/0.25;0.3/0.6;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;600;35.6;MATWEB online database http://matweb.com
+Steel87_7;Balance;0.19/0.25;0.3/0.6;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;500;39.4;MATWEB online database http://matweb.com
+Steel87_8;Balance;0.19/0.25;0.3/0.6;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;400;42.7;MATWEB online database http://matweb.com
+Steel87_9;Balance;0.19/0.25;0.3/0.6;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;300;46;MATWEB online database http://matweb.com
+Steel87_10;Balance;0.19/0.25;0.3/0.6;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;200;49;MATWEB online database http://matweb.com
+Steel87_11;Balance;0.19/0.25;0.3/0.6;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;100;51.2;MATWEB online database http://matweb.com
+Steel88_1;Balance;0.22/0.28;0.3/0.6;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;0;51.9;MATWEB online database http://matweb.com
+Steel88_2;Balance;0.22/0.28;0.3/0.6;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;800;26.1;MATWEB online database http://matweb.com
+Steel88_3;Balance;0.22/0.28;0.3/0.6;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;700;31.8;MATWEB online database http://matweb.com
+Steel88_4;Balance;0.22/0.28;0.3/0.6;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;600;35.6;MATWEB online database http://matweb.com
+Steel88_5;Balance;0.22/0.28;0.3/0.6;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;500;39.4;MATWEB online database http://matweb.com
+Steel88_6;Balance;0.22/0.28;0.3/0.6;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;400;42.7;MATWEB online database http://matweb.com
+Steel88_7;Balance;0.22/0.28;0.3/0.6;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;300;46;MATWEB online database http://matweb.com
+Steel88_8;Balance;0.22/0.28;0.3/0.6;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;200;49;MATWEB online database http://matweb.com
+Steel88_9;Balance;0.22/0.28;0.3/0.6;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;100;51.2;MATWEB online database http://matweb.com
+Steel89_1;Balance;0.27/0.34;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;100;43.6;MATWEB online database http://matweb.com
+Steel89_2;Balance;0.27/0.34;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;0;50.7;MATWEB online database http://matweb.com
+Steel90_1;Balance;0.34/0.42;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;100;50.7;MATWEB online database http://matweb.com
+Steel90_2;Balance;0.34/0.42;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;0;51.9;MATWEB online database http://matweb.com
+Steel90_3;Balance;0.34/0.42;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;300;24.7;MATWEB online database http://matweb.com
+Steel90_4;Balance;0.34/0.42;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;1200;29.8;MATWEB online database http://matweb.com
+Steel90_5;Balance;0.34/0.42;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;700;30.1;MATWEB online database http://matweb.com
+Steel90_6;Balance;0.34/0.42;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;1000;32.9;MATWEB online database http://matweb.com
+Steel90_7;Balance;0.34/0.42;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;600;33.9;MATWEB online database http://matweb.com
+Steel90_8;Balance;0.34/0.42;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;500;38.2;MATWEB online database http://matweb.com
+Steel90_9;Balance;0.34/0.42;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;400;41.7;MATWEB online database http://matweb.com
+Steel90_10;Balance;0.34/0.42;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;300;45.7;MATWEB online database http://matweb.com
+Steel90_11;Balance;0.34/0.42;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;200;48.1;MATWEB online database http://matweb.com
+Steel91_1;Balance;0.22/0.28;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;100;51.2;MATWEB online database http://matweb.com
+Steel91_2;Balance;0.22/0.28;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;0;51.9;MATWEB online database http://matweb.com
+Steel91_3;Balance;0.22/0.28;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;800;26.1;MATWEB online database http://matweb.com
+Steel91_4;Balance;0.22/0.28;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;1000;27.2;MATWEB online database http://matweb.com
+Steel91_5;Balance;0.22/0.28;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;1200;29.8;MATWEB online database http://matweb.com
+Steel91_6;Balance;0.22/0.28;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;700;31.8;MATWEB online database http://matweb.com
+Steel91_7;Balance;0.22/0.28;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;600;35.6;MATWEB online database http://matweb.com
+Steel91_8;Balance;0.22/0.28;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;500;39.4;MATWEB online database http://matweb.com
+Steel91_9;Balance;0.22/0.28;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;400;42.7;MATWEB online database http://matweb.com
+Steel91_10;Balance;0.22/0.28;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;300;46;MATWEB online database http://matweb.com
+Steel91_11;Balance;0.22/0.28;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;200;49;MATWEB online database http://matweb.com
+Steel92_1;Balance;0.32/0.38;0.5/0.8;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;100;43.6;MATWEB online database http://matweb.com
+Steel92_2;Balance;0.32/0.38;0.5/0.8;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;0;50.7;MATWEB online database http://matweb.com
+Steel93_1;Balance;0.36/0.44;0.7/1;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;100;50.7;MATWEB online database http://matweb.com
+Steel93_2;Balance;0.36/0.44;0.7/1;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;0;51.9;MATWEB online database http://matweb.com
+Steel93_3;Balance;0.36/0.44;0.7/1;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;800;24.7;MATWEB online database http://matweb.com
+Steel93_4;Balance;0.36/0.44;0.7/1;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;1200;29.8;MATWEB online database http://matweb.com
+Steel93_5;Balance;0.36/0.44;0.7/1;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;700;30.1;MATWEB online database http://matweb.com
+Steel93_6;Balance;0.36/0.44;0.7/1;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;1000;32.9;MATWEB online database http://matweb.com
+Steel93_7;Balance;0.36/0.44;0.7/1;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;600;33.9;MATWEB online database http://matweb.com
+Steel93_8;Balance;0.36/0.44;0.7/1;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;500;38.2;MATWEB online database http://matweb.com
+Steel93_9;Balance;0.36/0.44;0.7/1;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;400;41.7;MATWEB online database http://matweb.com
+Steel93_10;Balance;0.36/0.44;0.7/1;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;300;45.7;MATWEB online database http://matweb.com
+Steel93_11;Balance;0.36/0.44;0.7/1;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;200;48.1;MATWEB online database http://matweb.com
+Steel94_1;Balance;0.37/0.44;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;100;50.7;MATWEB online database http://matweb.com
+Steel94_2;Balance;0.37/0.44;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;0;51.9;MATWEB online database http://matweb.com
+Steel94_3;Balance;0.37/0.44;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;800;24.7;MATWEB online database http://matweb.com
+Steel94_4;Balance;0.37/0.44;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;1200;29.8;MATWEB online database http://matweb.com
+Steel94_5;Balance;0.37/0.44;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;700;30.1;MATWEB online database http://matweb.com
+Steel94_6;Balance;0.37/0.44;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;1000;32.9;MATWEB online database http://matweb.com
+Steel94_7;Balance;0.37/0.44;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;600;33.9;MATWEB online database http://matweb.com
+Steel94_8;Balance;0.37/0.44;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;500;38.2;MATWEB online database http://matweb.com
+Steel94_9;Balance;0.37/0.44;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;400;41.7;MATWEB online database http://matweb.com
+Steel94_10;Balance;0.37/0.44;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;300;45.7;MATWEB online database http://matweb.com
+Steel94_11;Balance;0.37/0.44;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04 max;0.05max;0;0;-;200;48.1;MATWEB online database http://matweb.com
+Steel95_1;Balance;0.31/0.38;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04max;0.05 max;0;0;-;100;43.6;MATWEB online database http://matweb.com
+Steel95_2;Balance;0.31/0.38;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.04max;0.05 max;0;0;-;0;50.7;MATWEB online database http://matweb.com
+Steel96_1;Balance;0.38/0.43;0.7/1;0;0.15/0.25;0;0.95;0;0;0;0.15/0.3;0;0;0;0;0.035 max;0.04 max;0;0;-;100;42.6;MATWEB online database http://matweb.com
+Steel96_2;Balance;0.38/0.43;0.7/1;0;0.15/0.25;0;0.95;0;0;0;0.15/0.3;0;0;0;0;0.035 max;0.04 max;0;0;-;600;33;MATWEB online database http://matweb.com
+Steel96_3;Balance;0.38/0.43;0.7/1;0;0.15/0.25;0;0.95;0;0;0;0.15/0.3;0;0;0;0;0.035 max;0.04 max;0;0;-;400;37.7;MATWEB online database http://matweb.com
+Steel96_4;Balance;0.38/0.43;0.7/1;0;0.15/0.25;0;0.95;0;0;0;0.15/0.3;0;0;0;0;0.035 max;0.04 max;0;0;-;200;42.2;MATWEB online database http://matweb.com
+Steel97_1;Balance;0.34/0.41;0.6/1;0;0.2/0.3;0;0;0;0;0;0.15/0.35;0;0;0;0;0.035 max;0.04 max;0;0;-;100;48.1;MATWEB online database http://matweb.com
+Steel97_2;Balance;0.34/0.41;0.6/1;0;0.2/0.3;0;0;0;0;0;0.15/0.35;0;0;0;0;0.035 max;0.04 max;0;0;-;600;33.9;MATWEB online database http://matweb.com
+Steel97_3;Balance;0.34/0.41;0.6/1;0;0.2/0.3;0;0;0;0;0;0.15/0.35;0;0;0;0;0.035 max;0.04 max;0;0;-;400;39.4;MATWEB online database http://matweb.com
+Steel97_4;Balance;0.34/0.41;0.6/1;0;0.2/0.3;0;0;0;0;0;0.15/0.35;0;0;0;0;0.035 max;0.04 max;0;0;-;200;45.3;MATWEB online database http://matweb.com
+steel98_1;Balance;0.35/0.4;0.7/0.9;0;0.2/0.3;0;0;0;0;0;0.15/0.35;0;0;0;0;0.035 max;0.04 max;0;0;-;100;48.1;MATWEB online database http://matweb.com
+steel98_2;Balance;0.35/0.4;0.7/0.9;0;0.2/0.3;0;0;0;0;0;0.15/0.35;0;0;0;0;0.035 max;0.04 max;0;0;-;600;33.9;MATWEB online database http://matweb.com
+steel98_3;Balance;0.35/0.4;0.7/0.9;0;0.2/0.3;0;0;0;0;0;0.15/0.35;0;0;0;0;0.035 max;0.04 max;0;0;-;400;39.4;MATWEB online database http://matweb.com
+steel98_4;Balance;0.35/0.4;0.7/0.9;0;0.2/0.3;0;0;0;0;0;0.15/0.35;0;0;0;0;0.035 max;0.04 max;0;0;-;200;45.3;MATWEB online database http://matweb.com
+steel;99_1;Balance;0.03 max;0.1 max;18.5;4.8;0;0;0;0.1;0;0.1 max;0;0;1.4;12;0.01 max;0;0.01;-;20;25.3;MATWEB online database http://matweb.com
+steel;99_2;Balance;0.03 max;0.1 max;18.5;4.8;0;0;0;0.1;0;0.1 max;0;0;1.4;12;0.01 max;0;0.01;-;50;25.8;MATWEB online database http://matweb.com
+steel;99_3;Balance;0.03 max;0.1 max;18.5;4.8;0;0;0;0.1;0;0.1 max;0;0;1.4;12;0.01 max;0;0.01;-;100;27;MATWEB online database http://matweb.com
+steel;100_1;Balance;0.03max;0.1;18.5;4.8;0;0;0;0.1;0;0.1max;0;.003 max;0.6;9;0.01max;0;0.01;-;20;25.3;MATWEB online database http://matweb.com
+steel;100_2;Balance;0.03max;0.1;18.5;4.8;0;0;0;0.1;0;0.1max;0;.003 max;0.6;9;0.01max;0;0.01;-;50;25.8;MATWEB online database http://matweb.com
+steel;100_3;Balance;0.03max;0.1;18.5;4.8;0;0;0;0.1;0;0.1max;0;.003 max;0.6;9;0.01max;0;0.01;-;100;27;MATWEB online database http://matweb.com
+steel101_1;Balance;0.03 max;0.1;18.5;3.25;0;0;0;0.1;0;0.1max;0;0;0.2;8.5;0.01max;0.01max;0;0.01;-;20;25.3;MATWEB online database http://matweb.com
+steel101_2;Balance;0.03 max;0.1;18.5;3.25;0;0;0;0.1;0;0.1max;0;0;0.2;8.5;0.01max;0.01max;0;0.01;-;50;25.8;MATWEB online database http://matweb.com
+steel101_3;Balance;0.03 max;0.1;18.5;3.25;0;0;0;0.1;0;0.1max;0;0;0.2;8.5;0.01max;0.01max;0;0.01;-;100;27;MATWEB online database http://matweb.com
+steel;102_1;Balance;0.03 max;0.1max;18.5;4.8;0;0;0;0.1;0;0.1max;0;0;0.4;7.5;0.01max;0;0.01;-;20;25.3;MATWEB online database http://matweb.com
+steel;102_2;Balance;0.03 max;0.1max;18.5;4.8;0;0;0;0.1;0;0.1max;0;0;0.4;7.5;0.01max;0;0.01;-;50;25.8;MATWEB online database http://matweb.com
+steel;102_3;Balance;0.03 max;0.1max;18.5;4.8;0;0;0;0.1;0;0.1max;0;0;0.4;7.5;0.01max;0;0.01;-;100;27;MATWEB online database http://matweb.com
+steel103_1;Balance;0.74/0.88;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.4 max;0.05 max;0;0;-;0;47.7;MATWEB online database http://matweb.com
+steel103_2;Balance;0.74/0.88;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.4 max;0.05 max;0;0;-;800;24.4;MATWEB online database http://matweb.com
+steel103_3;Balance;0.74/0.88;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.4 max;0.05 max;0;0;-;1000;26.8;MATWEB online database http://matweb.com
+steel103_4;Balance;0.74/0.88;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.4 max;0.05 max;0;0;-;700;30.1;MATWEB online database http://matweb.com
+steel103_5;Balance;0.74/0.88;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.4 max;0.05 max;0;0;-;1200;30.1;MATWEB online database http://matweb.com
+steel103_6;Balance;0.74/0.88;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.4 max;0.05 max;0;0;-;600;32.7;MATWEB online database http://matweb.com
+steel103_7;Balance;0.74/0.88;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.4 max;0.05 max;0;0;-;500;35.1;MATWEB online database http://matweb.com
+steel103_8;Balance;0.74/0.88;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.4 max;0.05 max;0;0;-;400;38.1;MATWEB online database http://matweb.com
+steel103_9;Balance;0.74/0.88;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.4 max;0.05 max;0;0;-;300;41.3;MATWEB online database http://matweb.com
+steel103_10;Balance;0.74/0.88;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.4 max;0.05 max;0;0;-;200;45.2;MATWEB online database http://matweb.com
+steel103_11;Balance;0.74/0.88;0.6/0.9;0;0;0;0;0;0;0;0;0;0;0;0;0.4 max;0.05 max;0;0;-;100;48.1;MATWEB online database http://matweb.com

@@ -1,0 +1,73 @@
+input	3
+output	1
+trainingMethod	Supervised
+jitterNoiseLimit	0.0001
+jitterEpoch	0
+trainingEpochs	10000
+normalized	True
+mu_inputs	0.75	0.0	0.75
+sigma_inputs	0.433012701892	0.707106781187	0.433012701892
+mu_outputs	0.5
+sigma_outputs	0.5
+Layer
+neurons	3
+useFixedBiasValues	False
+activationFunction	Logistic
+learningRateFunction	LinearFunction	0.5	0.25
+biasInitializer	ZeroFunction
+Layer
+neurons	3
+useFixedBiasValues	False
+activationFunction	Logistic
+learningRateFunction	LinearFunction	0.5	0.25
+biasInitializer	ZeroFunction
+Connection
+connectionMode	Complete
+weightsInitializer	RandomFunction	-1.0	1.0
+momentum	0.07
+Connection
+connectionMode	Complete
+weightsInitializer	RandomFunction	-1.0	1.0
+momentum	0.07
+Connection
+connectionMode	Complete
+weightsInitializer	RandomFunction	-1.0	1.0
+momentum	0.07
+Weight
+-2.17737441844
+3.08557645338
+-0.750185699659
+-1.47957551275
+3.20793472182
+-0.461585071869
+-1.81004582623
+2.66170142707
+-2.04253509001
+Weight
+-0.453523701314
+-0.657861659644
+-0.784292485774
+-2.06253848103
+-1.9955470441
+-2.47850479414
+-0.273602021669
+0.706157973109
+-1.13708444053
+Weight
+-0.0822082188485
+3.06082533099
+-0.0947833175208
+Bias
+0.0
+0.0
+0.0
+Bias
+-2.20099257209
+-2.81567769042
+-1.63685967888
+Bias
+-2.17192085723
+2.78809080824
+-2.29183011187
+Bias
+-1.84355137191
